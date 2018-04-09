@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1514083092 source:d:\itmo\labs\lab6\j\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1514115820 source:d:\itmo\labs\lab6\k\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+

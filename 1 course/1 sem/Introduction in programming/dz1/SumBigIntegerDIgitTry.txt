@@ -1,0 +1,26 @@
+import java.util.*;
+import java.math.*;
+import java.io.*;
+public class SumBigIntegerDigitTry {
+    public static void main(String[] args) {
+	int k = 0,j = 0; 
+        BigInteger ans = BigInteger.ZERO;
+        for (String str : args) {
+            String numbers[] = str.split("[\\p{javaWhitespace}");
+	    for (int i = length.str; i >= 0; i--)
+	    {
+		if (str[i]==" ") 
+		{ 
+		    replace(str[i],' ');
+		}
+	    }
+	    for (String number : numbers) {
+       	        if (!number.isEmpty())
+       	        {
+                    ans = ans.add(new BigInteger(number));
+                }
+	    }
+        }
+    System.out.println(ans);
+    }
+}

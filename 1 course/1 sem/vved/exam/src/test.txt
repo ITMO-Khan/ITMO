@@ -1,0 +1,9 @@
+add 2 asdfdgf
+add 1 qwe
+add 4 asfdfds
+add 5 asfsf
+add 6 asfsaf
+add 1 asdsa
+add 3 gff
+remove 3
+print test.out

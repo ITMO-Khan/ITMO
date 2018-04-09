@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1513556382 source:d:\itmo\labs\lab3\lev\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<string>
+	<vector>
+	<map>
+	<stack>
+	<queue>
+	<fstream>
+

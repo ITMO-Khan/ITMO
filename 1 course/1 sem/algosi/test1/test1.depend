@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507830910 source:d:\itmo\algosi\test1\main.cpp
+	<iostream>
+	<fstream>
+

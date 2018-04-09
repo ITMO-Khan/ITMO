@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1512421788 source:d:\itmo\labs\lab5\b\main.cpp
+	<iostream>
+	<string>
+	<stack>
+	<algorithm>
+	<vector>
+	<queue>
+

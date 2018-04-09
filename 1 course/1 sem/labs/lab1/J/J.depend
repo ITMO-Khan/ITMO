@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508597870 source:d:\itmo\labs\lab1\j\main.cpp
+	<iostream>
+	<cassert>
+	<cstdio>
+

@@ -1,0 +1,277 @@
+ <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html
+xmlns="http://www.w3.org/1999/xhtml"
+class="vk vk_js_no vk_flex_no r d h vk_appAuth_no"
+>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="format-detection" content="telephone=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="MobileOptimized" content="176" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="theme-color" content="#5181b8" />
+<base id="base">
+<meta name="robots" content="noindex,nofollow" /><meta http-equiv="origin-trial" data-feature="getInstalledRelatedApps" data-expires="2018-01-30" content="AqnBW3j/m56zAZN0fBjy5CYB0Z+nCthDicsVAa+nub6HQaZ2JaRPv8KZhidJHoyt/kmyGoAYcnby1QXbPjwbSwAAAABfeyJvcmlnaW4iOiJodHRwczovL3ZrLmNvbTo0NDMiLCJmZWF0dXJlIjoiSW5zdGFsbGVkQXBwIiwiZXhwaXJ5IjoxNTE3MjcwNDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZX0=">
+<title>Almas Turganbaev</title>
+<link rel="shortcut icon" href="/images/icons/favicons/fav_logo.ico?8"></link>
+<script>
+(function() {
+window.isMVK = true;
+window.isNewMail = false;
+window.isNewHeader = true;
+window.audioSubscribe = false;
+var vkElem = document.querySelector('.vk');
+var vkClass = vkElem.getAttribute('class');
+var supports = {
+js: true,
+flex: window.CSS && CSS.supports && (
+CSS.supports('display', 'flex') ||
+CSS.supports('display', '-webkit-flex') ||
+CSS.supports('display', '-ms-flexbox')
+)
+};
+supports.js && (vkClass = vkClass.replace('vk_js_no', 'vk_js_yes'));
+supports.flex && (vkClass = vkClass.replace('vk_flex_no', 'vk_flex_yes'));
+vkElem.setAttribute('class', vkClass);
+})();
+</script>
+<script type="text/javascript">
+<!--
+(function(k,a,d,e,f){function l(){var c=function(){var b=!1;try{b=new XMLHttpRequest}catch(a){try{b=new ActiveXObject("Msxml2.XMLHTTP")}catch(d){try{b=new ActiveXObject("Microsoft.XMLHTTP")}catch(c){b=!1}}}return b?e:f}(),g=function(){var b=k.createElement("div");b.innerHTML='<input type="file" />';b=b.getElementsByTagName("input")[0];return"file"!=b.type||b.disabled?f:e}(),h="ontouchstart"in a?e:f,m;try{m=typeof navigator.geolocation!==d?e:typeof a.google!==d&&typeof google.gears!==d?e:typeof device!==d&&typeof device.getServiceObject!==d?e:typeof Mojo!==d&&"Mojo.Service.Request"!==typeof Mojo.Service.Request?e:f}catch(p){m=f}var l=function(b){try{var d=a.Audio?new Audio:k.createElement("audio");if(d.canPlayType&&d.canPlayType(b)&&"no"!=d.canPlayType(b))return e}catch(c){}return f}("audio/mpeg"),n=function(b){try{for(var a=k.createElement("div"),c=0,g=["webkit","Moz","ms","O",""],h=g.length;c<h;c++){var l=g[c],m=l?l+b:b.toLowerCase();if(typeof a.style[m]!==d)return e}return f}catch(n){return f}}("Transform");return c+g+h+m+l+n+((a.XMLHttpRequest||a.XDomainRequest)&&(a.FormData||a.FileReader&&(a.XMLHttpRequest&&XMLHttpRequest.sendAsBinary||a.ArrayBuffer&&a.Uint8Array&&(a.MozBlobBuilder||a.WebKitBlobBuilder||a.BlobBuilder)))?e:f)}var c=a.screen,g=c.width||0,c=c.height||0,n=a.devicePixelRatio||1,p=(k.cookie.match(/(^|;\s+)remixmdevice=([^;]+)/)||[])[2]||"",h=p.split("/");p&&g==h[0]&&c==h[1]&&7==h[3].length||(g=[g,c,n,l()].join("/"),k.cookie="remixmdevice=; expires="+(new Date(0)).toUTCString()+"; path=/",k.cookie="remixmdevice="+g+"; expires="+(new Date((new Date).getTime()+7776E6)).toUTCString()+"; path=/; domain=.vk.com",location.replace(location.toString()))})(document,window,"undefined","!","-");!function(o,a){var e=o.hash||"",t=e.substr(2);if("#/"==e.substr(0,2)){var i=window.locDomain,n=new Date;n.setTime(n.getTime()+864e5);var r="; expires="+n.toGMTString();document.cookie=["remixtmp_hash_nav","=",o.href,r,"; path=/",i?"; domain=."+i:""].join(""),!a&&(t.match(/^\/*(away|login)(\.php)?([^a-z0-9\.]|$)/)&&(t=""),o.replace(o.protocol+"//"+o.host+"/"+t))}}(location);
+//-->
+</script>
+<link type="text/css" rel="stylesheet" href="/css/s_c.css?679"></link>
+<link type="text/css" rel="stylesheet" media="only screen" href="/css/s_yzg.css?196"></link>
+<link rel="manifest" href="/manifest.webapp" />
+<link rel="canonical" href="https://vk.com/id161110170"></link>
+<link rel="alternate" href="android-app://com.vkontakte.android/vkontakte/m.vk.com/id161110170" />
+</head>
+<body id="vk" class="vk__page _hover vk_stickers_hints_support_no opera_mini_no vk_al_no">
+<div class="layout">
+<div class="layout__header mhead" id="vk_head">
+<div class="hb_wrap">
+<div class="hb_btn">&nbsp;</div>
+</div>
+</div>
+<div class="layout__body " id="vk_wrap">
+<div class="layout__leftMenu" id="l">
+</div>
+<div class="layout__basis" id="m">
+<div class="basis">
+<div class="basis__header mhead" id="mhead"> <a
+class="header__left hb_wrap mhb_home mhb_vkhome"
+aria-label="Меню"
+href="/" accesskey="*"
+>
+<div class="hb_btn mhi_home mhi_vkhome">&nbsp;</div>
+</a>
+<h1 class="header__center hb_wrap mhb_back al_back">
+<span class="header__title hb_btn mh_header mhi_back">Almas</span>
+</h1>
+<a href="/login?to=aWQxNjExMTAxNzA-" class="hb_wrap mhb_notify" accesskey="#">
+<div class="hb_btn">
+<em class="mh_btn_label">войти</em>
+</div>
+</a></div>
+<div class="basis__content mcont" id="mcont"> <div class="basisProfile pcont fit_box">
+<div class="owner_panel profile_panel">
+<a href="/photo161110170_456239252?rev=1&from=profile"><img src="https://pp.userapi.com/c604616/v604616170/3c0a6/-rHez-PdieE.jpg" class="pp_img" alt="Almas Turganbaev" style="background-image:url(https://pp.userapi.com/c604616/v604616170/3c0a7/n21DlDf7ReY.jpg)" /></a>
+<div class="pp_cont">
+<h2 class="op_header">Almas Turganbaev</h2>
+<div class="pp_last_activity ">
+<span class="pp_last_activity_text">Online</span>
+<b class="lvi"></b>
+</div>
+<div class="pp_status">lol</div>
+<div class="pp_info">Санкт-Петербург</div>
+</div>
+<div class="op_block"><a class="wide_link pp_auth_link" href="/login?to=d3JpdGUxNjExMTAxNzA-">Чтобы отправить сообщение <span class="pp_auth_link_a">Almas</span>, Вам необходимо <b>войти</b>.</a></div>
+</div>
+<div class="ipanel bl_cont">
+<div class="profile_info"><h4 class="slim_header">Информация</h4><div class="profile_info_cont"><div><dl class="pinfo_row _pinfo"><dt>День рождения:</dt><dd>3 сентября</dd></dl><dl class="pinfo_row"><dt>Веб-сайт:</dt><dd><a href="/away.php?to=https%3A%2F%2Fwww.instagram.com%2Falm1ktur%2F" target="_blank">https://www.instagram.com/alm1ktur/</a></dd></dl></div></div></div><a name="menu"></a><div class="profile_info"><h4 class="slim_header">Другое</h4><div class="profile_info_cont profile_info_custom"><ul class="profile_menu">
+<li><a href="/tag161110170" class="pm_item">Фотографии с Almas <em class="pm_counter">6</em></a></li><li><a href="/albums161110170" class="pm_item">Фотографии <em class="pm_counter">10</em></a></li><li><a href="/videos161110170" class="pm_item">Видео <em class="pm_counter">104</em></a></li><li><a href="/id161110170?menu_opened#menu" class="pm_item" onclick="this.parentNode.parentNode.nextSibling.style.display='block';this.parentNode.style.display='none';return false;">Ещё..</a></li>
+</ul><ul class="profile_menu" style="display:none">
+<li><a href="/id161110170?act=idols" class="pm_item">Интересные страницы <em class="pm_counter">129</em></a></li><li><a href="/id161110170?act=fans" class="pm_item">Подписчики <em class="pm_counter">147</em></a></li><li><a name="actions"></a><div class="profile_info"><h4 class="slim_header">Действия</h4><div class="profile_info_cont profile_info_custom"><ul class="context_menu">
+<li ><a href="/id161110170?search=1" class="cm_item bli"><span class="cm_label">Поиск по записям</span></a></li>
+</ul></div></div></li>
+</ul></div></div>
+<a name="wall"></a>
+<a class="link_header" href="/id161110170?own=1#wall"><h4 class="slim_header clearfix"><span class="slim_header_label">1<span class="num_delim"> </span>212 записей</span><span class="slim_header_rl">к записям Almas</span></h4></a>
+<a name="posts"></a>
+<div class="wall_posts upanel bl_cont">
+<div class="wall_item" data-copy='62642770_1288'>
+<a class="post__anchor anchor" name="post161110170_1409"></a>
+<div class="wi_head">
+<a href="/id161110170"><img src="https://pp.userapi.com/c604616/v604616170/3c0a7/n21DlDf7ReY.jpg" class="wi_img" /></a>
+<div class="wi_cont">
+<div class="wi_author"><a class="pi_author" href="/id161110170"data-post-owner-type="user">Almas Turganbaev</a> </div>
+<div class="wi_info"><a class="wi_date" href="/wall161110170_1409">21 янв в 5:40</a></div>
+</div>
+</div>
+<div class="wi_body">
+<div class="pic_body_wrap">
+<div class="pic_body">
+<div class="pic_header">
+<a href="/egor_gornak"><img src="https://pp.userapi.com/c636725/v636725770/4dd4c/4k2D10XL_64.jpg" class="pic_img" /></a>
+<div class="pic_cont">
+<div class="pic_from"><span></span><i class="i_copy"></i><a class="pi_author" href="/egor_gornak">Егор Горнак</a> </div>
+<div class="pic_desc">21 янв в 0:02</div>
+</div>
+</div>
+</div>
+<div class="pi_text">15 часов</div>
+<a class="pic_copyof pic_copyof_btn" href="/wall161110170_1409?act=copy_history&from=profile#history"> <div class="pic_header">
+<img src="https://pp.userapi.com/c837733/v837733363/40c71/-gRwc_gQt58.jpg" class="pic_img" />
+<div class="pic_cont">
+<div class="pic_from"><span></span><i class="i_copy"></i><span class="pi_author">Сергей Васильченко</span> </div>
+<div class="pic_desc">5 янв в 13:50</div>
+</div>
+</div></a>
+</div>
+<div class="wi_buttons"><div class="wi_buttons_wrap"><span class="like_wrap"><a class="item_like is_empty _i" href="/like?act=add&object=wall161110170_1409&from=id161110170&hash=90df3bed37b7098a81&wide=1"><i class="i_like"></i></a><a class="item_share is_empty _i" href="/like?act=publish&object=wall161110170_1409&from=id161110170"><i class="i_share"></i></a></span><a class="item_replies _i" href="/wall161110170_1409?post_add#comments"><i class="i_replies"></i></a><span class="item_views "><i class="i_views"></i><b class="v_views">209</b></span></div></div>
+</div>
+</div> <div class="wall_item" data-copy='210351384_3421'>
+<a class="post__anchor anchor" name="post161110170_1406"></a>
+<div class="wi_head">
+<a href="/id161110170"><img src="https://pp.userapi.com/c604616/v604616170/3c0a7/n21DlDf7ReY.jpg" class="wi_img" /></a>
+<div class="wi_cont">
+<div class="wi_author"><a class="pi_author" href="/id161110170"data-post-owner-type="user">Almas Turganbaev</a> </div>
+<div class="wi_info"><a class="wi_date" href="/wall161110170_1406">17 янв в 3:25</a></div>
+</div>
+</div>
+<div class="wi_body">
+<div class="pi_text">Пушка <img class="emoji" alt="🌪" src="/images/emoji/D83CDF2A.png"><img class="emoji" alt="🔥" src="/images/emoji/D83DDD25.png"></div>
+<div class="pic_body_wrap">
+<div class="pic_body_full">
+<div class="pic_header">
+<a href="/raff4eek"><img src="https://sun9-5.userapi.com/c834203/v834203245/ee658/XdFH22F08-0.jpg" class="pic_img" /></a>
+<div class="pic_cont">
+<div class="pic_from"><span></span><i class="i_copy"></i><a class="pi_author" href="/raff4eek">Равиль Кибиров</a> </div>
+<div class="pic_desc"><a class="pic_desc_a" href="/wall210351384_3421">3 янв в 12:09</a></div>
+</div>
+</div>
+<div class="pi_text">Gogog</div>
+<a class="pic_copyof pic_copyof_btn" href="/wall161110170_1406?act=copy_history&from=profile#history"> <div class="pic_header">
+<img src="https://pp.userapi.com/c837537/v837537013/844c/yrn57vLfRDI.jpg" class="pic_img" />
+<div class="pic_cont">
+<div class="pic_from"><span></span><i class="i_copy"></i><span class="pi_author">RAPINKZ</span> </div>
+<div class="pic_desc">3 янв в 8:04</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="wi_buttons"><div class="wi_buttons_wrap"><span class="like_wrap"><a class="item_like is_empty _i" href="/like?act=add&object=wall161110170_1406&from=id161110170&hash=f7baea2a259e81f67a&wide=1"><i class="i_like"></i></a><a class="item_share is_empty _i" href="/like?act=publish&object=wall161110170_1406&from=id161110170"><i class="i_share"></i></a></span><a class="item_replies _i" href="/wall161110170_1406?post_add#comments"><i class="i_replies"></i></a><span class="item_views "><i class="i_views"></i><b class="v_views">192</b></span></div></div>
+</div>
+</div> <div class="wall_item" data-copy='210351384_3425'>
+<a class="post__anchor anchor" name="post161110170_1405"></a>
+<div class="wi_head">
+<a href="/id161110170"><img src="https://pp.userapi.com/c604616/v604616170/3c0a7/n21DlDf7ReY.jpg" class="wi_img" /></a>
+<div class="wi_cont">
+<div class="wi_author"><a class="pi_author" href="/id161110170"data-post-owner-type="user">Almas Turganbaev</a> </div>
+<div class="wi_info"><a class="wi_date" href="/wall161110170_1405">17 янв в 3:24</a></div>
+</div>
+</div>
+<div class="wi_body">
+<div class="pi_text"><img class="emoji" alt="🔥" src="/images/emoji/D83DDD25.png"><img class="emoji" alt="🔥" src="/images/emoji/D83DDD25.png"></div>
+<div class="pic_body_wrap">
+<div class="pic_body_full">
+<div class="pic_header">
+<a href="/raff4eek"><img src="https://sun9-5.userapi.com/c834203/v834203245/ee658/XdFH22F08-0.jpg" class="pic_img" /></a>
+<div class="pic_cont">
+<div class="pic_from"><span></span><i class="i_copy"></i><a class="pi_author" href="/raff4eek">Равиль Кибиров</a> </div>
+<div class="pic_desc">16 янв в 21:21</div>
+</div>
+</div>
+<div class="pi_text">кайфони &lt;4</div>
+<a class="pic_copyof pic_copyof_btn" href="/wall161110170_1405?act=copy_history&from=profile#history"> <div class="pic_header">
+<img src="https://sun9-1.userapi.com/c831408/v831408319/a82dd/onnNaHH8cDE.jpg" class="pic_img" />
+<div class="pic_cont">
+<div class="pic_from"><span></span><i class="i_copy"></i><span class="pi_author">BLACK SQUAD</span> </div>
+<div class="pic_desc">16 янв в 21:20</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="wi_buttons"><div class="wi_buttons_wrap"><span class="like_wrap"><a class="item_like is_empty _i" href="/like?act=add&object=wall161110170_1405&from=id161110170&hash=469196cb463a2ee6c5&wide=1"><i class="i_like"></i></a><a class="item_share is_empty _i" href="/like?act=publish&object=wall161110170_1405&from=id161110170"><i class="i_share"></i></a></span><a class="item_replies _i" href="/wall161110170_1405?post_add#comments"><i class="i_replies"></i></a><span class="item_views "><i class="i_views"></i><b class="v_views">151</b></span></div></div>
+</div>
+</div> <div class="wall_item" data-copy='140629494_6593'>
+<a class="post__anchor anchor" name="post161110170_1402"></a>
+<div class="wi_head">
+<a href="/id161110170"><img src="https://pp.userapi.com/c604616/v604616170/3c0a7/n21DlDf7ReY.jpg" class="wi_img" /></a>
+<div class="wi_cont">
+<div class="wi_author"><a class="pi_author" href="/id161110170"data-post-owner-type="user">Almas Turganbaev</a> </div>
+<div class="wi_info"><a class="wi_date" href="/wall161110170_1402">5 янв в 15:05</a></div>
+</div>
+</div>
+<div class="wi_body">
+<div class="pic_body_wrap">
+<div class="pic_body">
+<div class="pic_header">
+<a href="/id140629494"><img src="https://pp.userapi.com/c417528/v417528494/92f6/qs0etnkJH7E.jpg" class="pic_img" /></a>
+<div class="pic_cont">
+<div class="pic_from"><span></span><i class="i_copy"></i><a class="pi_author" href="/id140629494">Nastya Postnykova</a> </div>
+<div class="pic_desc">5 янв в 14:13</div>
+</div>
+</div>
+</div>
+<div class="pi_text">А вот тут рисковать не стоит :(</div>
+<a class="pic_copyof pic_copyof_btn" href="/wall161110170_1402?act=copy_history&from=profile#history"> <div class="pic_header">
+<img src="https://pp.userapi.com/c837733/v837733363/40c71/-gRwc_gQt58.jpg" class="pic_img" />
+<div class="pic_cont">
+<div class="pic_from"><span></span><i class="i_copy"></i><span class="pi_author">Сергей Васильченко</span> </div>
+<div class="pic_desc">5 янв в 13:50</div>
+</div>
+</div></a>
+</div>
+<div class="wi_buttons"><div class="wi_buttons_wrap"><span class="like_wrap"><a class="item_like is_empty _i" href="/like?act=add&object=wall161110170_1402&from=id161110170&hash=dae1b8318c0d2f1ab6&wide=1"><i class="i_like"></i></a><a class="item_share is_empty _i" href="/like?act=publish&object=wall161110170_1402&from=id161110170"><i class="i_share"></i></a></span><a class="item_replies _i" href="/wall161110170_1402?post_add#post_add"><i class="i_replies"></i><b class="v_replies">1</b></a><span class="item_views "><i class="i_views"></i><b class="v_views">167</b></span></div></div>
+</div>
+</div> <div class="wall_item">
+<a class="post__anchor anchor" name="post161110170_1392"></a>
+<div class="wi_head">
+<a href="/id161110170"><img src="https://pp.userapi.com/c604616/v604616170/3c0a7/n21DlDf7ReY.jpg" class="wi_img" /></a>
+<div class="wi_cont">
+<div class="wi_author"><a class="pi_author" href="/id161110170"data-post-owner-type="user">Almas Turganbaev</a> </div>
+<div class="wi_info"><a class="wi_date" href="/wall161110170_1392">8 сен 2017</a></div>
+</div>
+</div>
+<div class="wi_body">
+<div class="pi_text">Edit education</div>
+<div class="pi_medias"> <div class="medias_link_thumbed">
+<a class="-filler" href="/away.php?to=https%3A%2F%2Fm.vk.com%2Fapp6167256_-91635769&post=161110170_1392&el=snippet" target="_blank"></a><img class="mlt_thumb" src="https://pp.userapi.com/c837129/v837129844/51af5/Fsue6QCIDxQ.jpg" /><a class="mlt_header" href="/away.php?to=https%3A%2F%2Fm.vk.com%2Fapp6167256_-91635769&post=161110170_1392&el=snippet" target="_blank"> <div class="mlt_title">Edit education</div> <div class="mlt_link">knowledge.vkforms.ru</div></a>
+<div class="mlt_cont">
+</div>
+</div></div>
+<div class="wi_buttons"><div class="wi_buttons_wrap"><span class="like_wrap"><a class="item_like is_empty _i" href="/like?act=add&object=wall161110170_1392&from=id161110170&hash=0462806d91f1a6db86&wide=1"><i class="i_like"></i><b class="v_like" >6</b></a><a class="item_share is_empty _i" href="/like?act=publish&object=wall161110170_1392&from=id161110170"><i class="i_share"></i></a></span><a class="item_replies _i" href="/wall161110170_1392?post_add#comments"><i class="i_replies"></i></a><span class="item_views "><i class="i_views"></i><b class="v_views">401</b></span></div></div>
+</div>
+</div>
+<div class="show_more_wrap"><a class="show_more" href="/id161110170?offset=5&own=0#posts">Показать ещё</a></div>
+</div>
+</div>
+</div></div>
+<div class="basis__footer mfoot" id="mfoot"><div class="pfoot">
+<ul id="footer_menu" class="footer_menu">
+<li class="fm_row"><a class="fm_item" href="/">На главную</a></li>
+<li class="fm_row"><a id="fv_link" class="fm_item fv_link" href="https://vk.com/id161110170?_fm=profile&_fm2=1">Полная версия</a></li>
+</ul>
+</div></div>
+<div class="_cntrs" style="height:0;overflow:hidden;">
+<img width="1" height="1" src="//counter.yadro.ru/hit?uhttps%3A%2F%2Fm.vk.com%2Fid161110170;r;6872322" alt="" align="left" />
+<img width="1" height="1" src="//sb.scorecardresearch.com/p?c1=2&c2=13765216&c3=&c4=https%3A%2F%2Fm.vk.com%2Fid161110170&c5=&c9=&c15=&cv=2.0&cj=1&rn=6872322" alt="" align="left" />
+<img src="//top-fwz1.mail.ru/counter?id=2579437;pid=0;r=" style="border:0;" height="1" width="1" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+<!--
+parent&&parent!=window&&(document.getElementsByTagName('body')[0].innerHTML='');
+//-->
+</script>
+<div id="vk_utils"></div>
+<div id="z"></div>
+<div id="vk_bottom"></div>
+</body>
+</html>

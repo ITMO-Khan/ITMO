@@ -1,0 +1,3 @@
+SYSTEM_WGETRC = c:/progra~1/wget/etc/wgetrc
+syswgetrc = C:\Program Files (x86)\GnuWin32/etc/wgetrc
+^C

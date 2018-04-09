@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510073151 source:d:\itmo\labs\lab3\f\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
