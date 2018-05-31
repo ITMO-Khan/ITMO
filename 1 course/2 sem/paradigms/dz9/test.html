@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Paradigms Test</title>
+    <script src="functionalExpression.js"></script>
+</head>
+<body>
+<script type="text/javascript">
+    var expr = subtract(
+        multiply(
+            cnst(2),
+            variable("x")
+        ),
+        cnst(3)
+    );
+
+    for (var i = 0; i <= 10; ++i) {
+        document.write('<p>expr(' + i + ') = ' + expr(i) + '</p>');
+    }
+</script>
+</body>
+</html>

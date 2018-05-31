@@ -1,15 +1,17 @@
 package expression;
 
-public class Subtract extends Operation {
-    public Subtract(AllExpression first, AllExpression second) {
+public class Subtract extends Binary {
+    Subtract(CommonExpression first, CommonExpression second) {
         super(first, second);
     }
 
-    protected double makeOperation(double x, double y) {
-        return x - y;
+    @Override
+    protected int apply(int first, int second) {
+        return first - second;
     }
 
-    protected int makeOperation(int x, int y) {
-        return x - y;
+    @Override
+    protected double apply(double first, double second) {
+        return first - second;
     }
 }

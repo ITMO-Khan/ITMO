@@ -1,15 +1,19 @@
 package expression;
 
-public class Add extends Operation {
-    public Add(AllExpression first, AllExpression second) {
+public class Add extends Binary {
+    Add(CommonExpression first, CommonExpression second) {
         super(first, second);
     }
 
-    protected double makeOperation(double x, double y) {
-        return x + y;
+    @Override
+    protected int apply(int first, int second) {
+        return first + second;
     }
 
-    protected int makeOperation(int x, int y) {
-        return x + y;
+    @Override
+    protected double apply(double first, double second) {
+        return first + second;
     }
+
+
 }

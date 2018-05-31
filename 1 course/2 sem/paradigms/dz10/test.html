@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Paradigms Test</title>
+    <script src="objectExpression.js"></script>
+</head>
+<body>
+<script type="text/javascript">
+    var expr = new Add(
+        new Variable('x'),
+        new Sqrt(
+            new Subtract(
+                new Variable('y'),
+                new Divide(
+                    new Square(
+                        new Const(3)
+                    ),
+                    new Const(4)
+                )
+            )
+        )
+    );
+
+
+    console.log(expr.evaluate(0, 0, 0));
+</script>
+</body>
+</html>
