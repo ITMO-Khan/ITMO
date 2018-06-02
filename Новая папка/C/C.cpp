@@ -1,53 +1,55 @@
 #include <cstdio>
 #include <vector>
 #include <algorithm>
-#include <queue>
+#include <utility>
+#include <set>
 #include <climits>
 
 using namespace std;
 
-FILE *fin = fopen("pathbge.in", "r");
-FILE *fout = fopen("pathbge.out", "w");
+FILE *fin = fopen("pathbgep.in", "r");
+FILE *fout = fopen("pathbgep.out", "w");
 
-const int MAXN = 30000 + 1;
 int n, m;
-vector<int> g[MAXN];
-int path[MAXN];
+vector<vector<pair<int, long long>>> M;
 
 int main(int argc, char **argv) {
     fscanf(fin, "%d %d", &n, &m);
-
-    for(int i = 0, v1, v2; i < m; i++) {
-        fscanf(fin, "%d %d", &v1, &v2);
-        g[v1].push_back(v2);
-        g[v2].push_back(v1);
+    M.resize(n);
+    
+    long long t;
+    for(int i = 0, a, b; i < m; i++) {
+        fscanf(fin, "%d %d %I64d", &a, &b, &t);
+        M[--a].push_back(make_pair(--b, t));
+        M[b].push_back(make_pair(a, t));
     }
 
-    for(int i = 1; i <= n; i++) {
-        path[i] = INT_MAX;
-    }
+    vector<long long> d(n, LLONG_MAX / 2);
+    d[0] = 0;
+    
+    set<pair<long long, int>> q;
 
-    path[1] = 0;
-    queue<int> q;
-    q.push(1);
-    vector<int> d(n);
+	for (int i = 0; i < n; i++) {
+		q.insert(make_pair(d[i], i));
+	}
 
-    while(!q.empty()) {
-        int v = q.front();
-        q.pop();
+	while (!q.empty()) {
+		pair<long long, int> cur = *q.begin();
+		q.erase(q.begin());
+		
+		for (int i = 0; i < (int)M[cur.second].size(); ++i) {
+			if (d[M[cur.second][i].first] > cur.first + M[cur.second][i].second) {
+				q.erase(make_pair(d[M[cur.second][i].first], M[cur.second][i].first));
+				d[M[cur.second][i].first] = cur.first + M[cur.second][i].second;
+				q.insert(make_pair(d[M[cur.second][i].first], M[cur.second][i].first));
+			}
+		}
+	}
 
-        for(size_t i = 0; i < g[v].size(); ++i) {
-            int to = g[v][i];
-
-            if(path[to] > path[v] + 1) {
-                q.push(to);
-                path[to] = path[v] + 1;
-            }
-        }
-    }
-
-    for(int i = 1; i <= n; i++) {
-        fprintf(fout, "%d ", path[i]);
+	
+  
+    for(int i = 0; i < n; i++) {
+        fprintf(fout, "%I64d ", d[i] == LLONG_MAX / 2 ? -1 : d[i]);
     }
 
     fclose(fin);
